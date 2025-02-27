@@ -12,6 +12,7 @@
 - Godot
 - Blender
 - LaTeX
+- Pixel Studio
 - Photoshop, Illustrator
 - DaVinci
 - MS Office
