@@ -8,15 +8,18 @@
 
 <h1># Trying Out</h1>
 <table><tr>
-<td>- Flutter</td>
-<td>- Godot</td>
-<td>- Blender</td>
-<td>- LaTeX</td>
-<td>- Pixel Studio</td>
-<td>- Photoshop, Illustrator</td>
-<td>- DaVinci</td>
-<td>- MS Office</td>
-<td>- MATLAB</td>
+<td>Flutter</td>
+<td>Godot</td>
+<td>Blender</td>
+<td>LaTeX</td>
+<td>Pixel Studio</td>
+</tr>
+<tr>
+<td>Photoshop</td>
+<td>Illustrator</td>
+<td>DaVinci</td>
+<td>MS Office</td>
+<td>MATLAB</td>
 </tr></table>
 
 <h1># Stats</h1>
