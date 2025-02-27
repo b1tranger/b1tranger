@@ -7,16 +7,17 @@
 
 
 <h1># Trying Out</h1>
-
-- Flutter
-- Godot
-- Blender
-- LaTeX
-- Pixel Studio
-- Photoshop, Illustrator
-- DaVinci
-- MS Office
-- MATLAB
+<table><tr>
+<td>- Flutter</td>
+<td>- Godot</td>
+<td>- Blender</td>
+<td>- LaTeX</td>
+<td>- Pixel Studio</td>
+<td>- Photoshop, Illustrator</td>
+<td>- DaVinci</td>
+<td>- MS Office</td>
+<td>- MATLAB</td>
+</tr></table>
 
 <h1># Stats</h1>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=b1tranger" alt="Stats" />
