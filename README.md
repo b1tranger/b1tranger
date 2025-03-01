@@ -12,11 +12,13 @@
 <td>Godot</td>
 <td>Blender</td>
 <td>LaTeX</td>
-<td>Pixel Studio</td>
 </tr>
 <tr>
+<td>Pixel Studio</td>
 <td>Photoshop</td>
 <td>Illustrator</td>
+</tr>
+<tr>
 <td>DaVinci</td>
 <td>MS Office</td>
 <td>MATLAB</td>
