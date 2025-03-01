@@ -11,17 +11,21 @@
 <td>Flutter</td>
 <td>Godot</td>
 <td>Blender</td>
-<td>LaTeX</td>
 </tr>
 <tr>
+<td>LaTeX</td>
 <td>Pixel Studio</td>
 <td>Photoshop</td>
-<td>Illustrator</td>
 </tr>
 <tr>
+<td>Illustrator</td>
 <td>DaVinci</td>
 <td>MS Office</td>
+</tr>
+<tr>
 <td>MATLAB</td>
+<td></td>
+<td></td>
 </tr></table>
 
 <h1># Stats</h1>
