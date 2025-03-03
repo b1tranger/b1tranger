@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm BitRanger !</h1>
-<p align=center> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/shuba-duck-know-your-meme.gif" height=300px width=300px></p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/shuba-duck-know-your-meme.gif)
+<br>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/shuba-duck-know-your-meme.gif" height=300px width=300px />
 <p align=center>an Undergrad student at UITS. Learning Game Engines and Creative Softwares.</p> 
   
 <h2>Links</h2>
