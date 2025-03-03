@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm BitRanger !</h1>
 
+<h2>Links</h2>
+- <a href="https://forms.gle/ifDSTsdRaG9c4zJ3A">Link-Tree</a>
+- <a href="https://discordapp.com/users/461953229299646471">Discord</a>
+- <a href="https://steamcommunity.com/id/BitRanger/">Steam</a>
+- <a href="https://www.behance.net/b1tranger">Behance</a>
 
-<h1># Current Projects</h1>
+<h2># Current Projects</h2>
 
 - Web **[University-Resources](https://b1tranger.github.io/oUITS-Resources/)**
 
 
-<h1># Trying Out</h1>
+<h2># Trying Out</h2>
 <table><tr>
 <td>Flutter</td>
 <td>Godot</td>
@@ -28,7 +33,7 @@
 <td></td>
 </tr></table>
 
-<h1># Stats</h1>
+<h2># Stats</h2>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=b1tranger&theme=dracula" alt="Stats" />
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 
