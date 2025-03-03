@@ -35,7 +35,8 @@
 <td></td>
 </tr></table>
 
-<h2># Stats</h2>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=b1tranger&theme=dracula" alt="Stats" />
+<!-- <h2># Stats</h2>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=b1tranger&theme=dracula" alt="Stats" /> -->
+
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 
