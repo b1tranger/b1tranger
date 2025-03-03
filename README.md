@@ -2,7 +2,7 @@
 <p align=center> <img src="shuba-duck-know-your-meme.gif" height=300px width=300px></p>
 <p align=center>an Undergrad student at UITS. Learning Game Engines and Creative Softwares.</p> 
   
-<h2>Links</h2>
+<h2># Links</h2>
 
 - <a href="https://forms.gle/ifDSTsdRaG9c4zJ3A">Link-Tree</a>
 - <a href="https://discordapp.com/users/461953229299646471">Discord</a>
