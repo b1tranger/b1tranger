@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BitRanger !</h1>
 <p align=center>an Undergrad student at UITS. Learning Game Engines and Creative Softwares.</p> 
-<p akign=center> ![you are seeing a .gif , trust me bro](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F2429796-shuba-duck-dancing-duck-oozora-subaru&psig=AOvVaw1AGjkovFKbskkAOIzLha7S&ust=1741072769651000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLj60Nyv7YsDFQAAAAAdAAAAABAE)</p>
+<p align=center> <img src="shuba-duck-know-your-meme.gif"></p>
   
 <h2>Links</h2>
 - <a href="https://forms.gle/ifDSTsdRaG9c4zJ3A">Link-Tree</a>
