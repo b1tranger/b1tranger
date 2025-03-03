@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BitRanger !</h1>
-<p align=center> <img src="shuba-duck-know-your-meme.gif" height=300px width=250px></p>
+<p align=center> <img src="shuba-duck-know-your-meme.gif" height=300px width=280px></p>
 <p align=center>an Undergrad student at UITS. Learning Game Engines and Creative Softwares.</p> 
   
 <h2>Links</h2>
