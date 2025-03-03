@@ -10,7 +10,7 @@
 
 <h2># Current Projects</h2>
 
-- Web **[University-Resources](https://b1tranger.github.io/oUITS-Resources/)**
+- **[University-Resources](https://b1tranger.github.io/oUITS-Resources/)**
 
 
 <h2># Trying Out</h2>
