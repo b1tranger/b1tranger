@@ -12,6 +12,7 @@
 <h2># Current Projects</h2>
 
 - **[University-Resources](https://uits-res.netlify.app/)**
+- **[Task-Scheduler](https://ouits-schedule.netlify.app/)**
 
 
 <h2># Trying Out</h2>
