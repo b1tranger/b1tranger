@@ -11,7 +11,7 @@
 
 <h2># Current Projects</h2>
 
-- **[University-Resources](https://b1tranger.github.io/oUITS-Resources/)**
+- **[University-Resources](https://uits-res.netlify.app/)**
 
 
 <h2># Trying Out</h2>
