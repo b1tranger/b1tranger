@@ -5,15 +5,16 @@
 <h2># Links</h2>
 
 <!-- - <a href="https://forms.gle/ifDSTsdRaG9c4zJ3A">Link-Tree</a> -->
-- <a href="https://discordapp.com/users/461953229299646471">Discord</a>
+- <a href="https://b1tranger.github.io/">Portfolio</a>
+<!-- - <a href="https://discordapp.com/users/461953229299646471">Discord</a>
 - <a href="https://steamcommunity.com/id/BitRanger/">Steam</a>
-- <a href="https://www.behance.net/b1tranger">Behance</a>
+- <a href="https://www.behance.net/b1tranger">Behance</a> -->
 
 <h2># Current Projects</h2>
 
 - **[University-Resources](https://ouits-res.netlify.app/)**
 - **[Task-Scheduler](https://ouits-schedule.netlify.app/)**
-
+- **[Website for taking notes](https://b1tranger.github.io/b1tranger.note-taking-website/)**
 
 <h2># Trying Out</h2>
 <table><tr>
@@ -33,8 +34,8 @@
 </tr>
 <tr>
 <td>MATLAB</td>
-<td></td>
-<td></td>
+<td>Adobe Acrobat</td>
+<td>Programming</td>
 </tr></table>
 
 <!-- <h2># Stats</h2>
