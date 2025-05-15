@@ -14,7 +14,7 @@
 
 - **[University-Resources](https://ouits-res.netlify.app/)**
 - **[Task-Scheduler](https://ouits-schedule.netlify.app/)**
-- **[Website for taking notes](https://b1tranger.github.io/b1tranger.note-taking-website/)**
+- **[Website for taking notes](https://b1tranger.github.io/web.note/)**
 
 <h2># Trying Out</h2>
 <table><tr>
