@@ -38,10 +38,10 @@
 | Programming           | C, C++, JAVA                      |
 | Microsoft Office      | Word, PowerPoint, Excel           |
 | Document Modification | Adobe Acrobat                     |
-| Image Editing         | Photoshop                         |
+| Image Editing         | Photoshop, Snapseed                         |
 | 2D Animation          | Pixel Studio                      |
-| Designing             | Illustrator                       |
-| Video Editing         | DaVinci                           |
+| Designing             | Illustrator, Canva                       |
+| Video Editing         | DaVinci, ClipChamp                           |
 | 3D Modelling          | Blender, goxel                    |
 | Game Development      | Godot, Raylib                     |
 | Flutter               |                                   |
