@@ -1,45 +1,81 @@
-<h1 align="center">Hi 👋, I'm BitRanger !</h1>
-<!-- <p align=center> <img src="shuba-duck-know-your-meme.gif" height=300px width=300px></p> -->
-<p align=center>an Undergrad student at UITS. Learning Game Engines and Creative Softwares.</p> 
-  
-<h2># Links</h2>
+# Hi 👋, I'm BitRanger!
 
-<!-- - <a href="https://forms.gle/ifDSTsdRaG9c4zJ3A">Link-Tree</a> -->
-- <a href="https://b1tranger.github.io/">Portfolio</a>
-<!-- - <a href="https://discordapp.com/users/461953229299646471">Discord</a>
-- <a href="https://steamcommunity.com/id/BitRanger/">Steam</a>
-- <a href="https://www.behance.net/b1tranger">Behance</a> -->
+<p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p>
 
-<h2># Current Projects</h2>
+<p align="center">An Undergrad student at UITS. Learning Game Engines and Creative Softwares.</p>
 
-- **[University-Resources](https://ouits-res.netlify.app/)**
-- **[Task-Scheduler](https://ouits-schedule.netlify.app/)**
-- **[Website for taking notes](https://b1tranger.github.io/web.note/)**
+---
 
-<h2># Trying Out</h2>
-<table><tr>
-<td>Flutter</td>
-<td>Godot</td>
-<td>Blender</td>
-</tr>
-<tr>
-<td>LaTeX</td>
-<td>Pixel Studio</td>
-<td>Photoshop</td>
-</tr>
-<tr>
-<td>Illustrator</td>
-<td>DaVinci</td>
-<td>MS Office</td>
-</tr>
-<tr>
-<td>MATLAB</td>
-<td>Adobe Acrobat</td>
-<td>Programming</td>
-</tr></table>
+## Important Links
 
-<!-- <h2># Stats</h2>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=b1tranger&theme=dracula" alt="Stats" /> -->
+- [Discord](https://discordapp.com/users/461953229299646471)
+- [Email](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=b1tranger.01@gmail.com&hl=en)
+- [GitHub](https://github.com/b1tranger)
+- [Resources](https://b1tranger.github.io/oUITS-Resources/page-depth-01/Resources-Dump.html)
+- [GitBook](https://b1tranger.gitbook.io/archive/)
 
-<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
+---
 
+## Current Projects
+
+- [University-Resources](https://ouits-res.netlify.app/)
+- [Task-Scheduler (+Note Taking)](https://ouits-schedule.netlify.app/)
+- [Personal Archive](https://b1tranger.github.io/archive/)
+
+---
+
+## Currently Contributing To
+
+- [Handicapped Bros](https://github.com/Handicapped-Bros)
+- [Awesome UITS](https://github.com/oU1TS)
+
+---
+
+## Skills and Interests
+
+| Category              | Tools/Skills                      |
+|-----------------------|-----------------------------------|
+| Programming           | C, C++, JAVA                      |
+| Microsoft Office      | Word, PowerPoint, Excel           |
+| Document Modification | Adobe Acrobat                     |
+| Image Editing         | Photoshop                         |
+| 2D Animation          | Pixel Studio                      |
+| Designing             | Illustrator                       |
+| Video Editing         | DaVinci                           |
+| 3D Modelling          | Blender, goxel                    |
+| Game Development      | Godot, Raylib                     |
+| Flutter               |                                   |
+| LaTeX                 |                                   |
+| MATLAB                |                                   |
+
+---
+
+## Academic Background
+
+| Institution | Degree       | Subject  | Duration           |
+|------------|--------------|----------|--------------------|
+| UITS       | BSc          | CSE      | 02/2024 - Present  |
+| AIUB       | BSc          | CSE      | 07/2023 - 11/2023  |
+| NDC        | HSC          | Science  | 07/2020 - 06/2022  |
+| BBNSC      | PSC-JSC-SSC  | Science  | 01/2009 - 05/2020  |
+
+---
+
+## Follow me on
+
+- [LinkedIn](https://www.linkedin.com/in/gaus-saraf-0471b81a4/)
+- [Facebook](https://www.facebook.com/b1tranger)
+- [Instagram](https://www.instagram.com/b1tranger/)
+- [Steam](https://steamcommunity.com/id/BitRanger/)
+- [Behance](https://www.behance.net/b1tranger)
+- [Blogger](https://b1tranger.blogspot.com/)
+- [Twitter (X)](https://x.com/b1tranger)
+- [YouTube](https://www.youtube.com/@omnipotato6667)
+
+---
+
+<!-- ## Donation -->
+
+<!-- <img src="01936300790 bkash (2).jpg" alt="Donation QR" width="300px"> -->
+
+<!-- <p align="center">I won't mind at all :3</p> -->
