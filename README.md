@@ -20,7 +20,7 @@
 
 - [University-Resources](https://ouits-res.netlify.app/)
 - [Task-Scheduler (+Note Taking)](https://ouits-schedule.netlify.app/)
-- [Personal Archive](https://b1tranger.github.io/archive/)
+- [Personal Archive](https://b1tranger.github.io/archive/) + [wiki](https://github.com/b1tranger/archive/wiki)
 
 ---
 
