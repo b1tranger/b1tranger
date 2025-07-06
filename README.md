@@ -32,7 +32,7 @@ CSE undergrad at [UITS](#UITS). Currently learning Game Engines and Creative Sof
 
 ## Links and resources
 * [GitHub Repositories](https://github.com/b1tranger?tab=repositories)
-* [Resources Archive](Dump.html)
+* [Resources Archive](https://b1tranger.netlify.app/dump)
 * [GitBook Doc](https://b1tranger.gitbook.io/archive/)
 * [GitHub Gist](https://gist.github.com/b1tranger)
 
