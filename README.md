@@ -59,7 +59,7 @@ CSE undergrad at UITS. Currently learning Game Engines and Creative Softwares. S
 * [Task-Scheduler](https://b1tsched.netlify.app/)
 * [Handicapped Bros](https://github.com/Handicapped-Bros)
 * [Awesome UITS](https://github.com/oU1TS)
-* [More Projects](projects.html)
+* [More Projects](https://b1tranger.netlify.app/projects)
 
 ---
 
