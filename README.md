@@ -3,7 +3,7 @@
 
 <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p>
 
-CSE undergrad at [UITS](#UITS). Currently learning Game Engines and Creative Softwares. Skilled at writing, decent at speaking English and Bengali. Likes poetry and Arabic.
+CSE undergrad at UITS. Currently learning Game Engines and Creative Softwares. Skilled at writing, decent at speaking English and Bengali. Likes poetry and Arabic.
 
 ---
 
