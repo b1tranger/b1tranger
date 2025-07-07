@@ -97,7 +97,8 @@ CSE undergrad at UITS. Currently learning Game Engines and Creative Softwares. S
 
 | Institution                               | Degree | Subject | Duration          |
 | ----------------------------------------- | ------ | ------- | ----------------- |
-| [UITS](#UITS)                             | BSc    | CSE     | 02/2024-Present   |
+| [OSSU](https://ossu.firebaseapp.com/#/)  |BSc | CS | 07/07/25-Present |
+| [UITS](https://uits.edu.bd/)                             | BSc    | CSE     | 02/2024-Present   |
 | [AIUB](https://www.aiub.edu/)             | BSc    | CSE     | 07/2023-11/2023   |
 | [NDC](https://ndc.edu.bd/)                 | HSC    | Science | 07/2020-06/2022   |
 | [BBN](https://www.bbnsc.edu.bd/)           | PSC, JSC, SSC | Science | 01/2009-05/2020   |
