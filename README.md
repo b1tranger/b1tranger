@@ -26,6 +26,10 @@ I’m a CSE undergraduate at UITS, currently exploring game engines and creative
   <a href="https://m.facebook.com/bink.birb/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://www.blogger.com/profile/09013726977236642072" target="_blank">
+      <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+
 </p>
 
 ---
@@ -39,27 +43,25 @@ I’m a CSE undergraduate at UITS, currently exploring game engines and creative
 ---
 
 ## Skills and Tools
-* **Programming:** C, C++, JAVA
-* **Microsoft Office:** Word, Powerpoint, Excel
-* **Document Editing:** Adobe Acrobat
-* **Image Editing:** Photoshop, Snapseed
-* **2D Animation:** Pixel Studio
-* **Designing:** Illustrator, Canva
-* **Video Editing:** DaVinci, ClipChamp
-* **3D Modelling:** Blender, goxel
-* **Game Development:** Godot, Raylib
-* **Flutter**
-* **LaTeX:** Overleaf
-* **MATLAB**
+- **Programming:** C, C++, Java, JS, PHP  
+- **Web Development:** HTML, CSS, JS  
+- **Office Tools:** Word, PowerPoint, Acrobat  
+- **Designing:** Photoshop, Illustrator, Pixel Studio, Canva  
+- **Video Editing:** DaVinci, ClipChamp  
+- **3D:** Blender, AutoCAD, Goxel  
+- **Game Development:** Godot, Raylib  
+- **LaTeX:** Overleaf
 
 ---
 
-## Projects and Contributions
-* [University-Resources](https://b1tacad.netlify.app/)
-* [Task-Scheduler](https://b1tsched.netlify.app/)
-* [Handicapped Bros](https://github.com/Handicapped-Bros)
-* [Awesome UITS](https://github.com/oU1TS)
-* [More Projects](https://b1tranger.netlify.app/projects)
+## 🚀 Projects and Contributions
+| Project | Description | Tech |
+|---------|-------------|------|
+| [University-Resources](https://b1tacad.netlify.app/) | Organized university resources and utilized crowdsourcing. | HTML/CSS/JS |
+| [Task-Scheduler](https://b1tsched.netlify.app/) | Academic task planner with routines, calendar, and faculty info. | HTML/CSS/JS |
+| [Awesome UITS](https://github.com/oU1TS) | GitHub organization fostering communal activity among UITS students. | GitHub Org |
+| [Handicapped Bros](https://github.com/Handicapped-Bros) | A place where friends gather to do things they love. | — |
+| [More Projects](https://b1tranger.netlify.app/projects) | |
 
 ---
 
