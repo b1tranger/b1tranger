@@ -3,7 +3,7 @@
 
 <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p>
 
-I’m a CSE undergraduate at UITS, exploring and learning. I have a deep appreciation for poetry and the Arabic language.
+I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreciation for poetry and the Arabic language.
 
 ---
 
