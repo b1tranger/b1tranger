@@ -35,7 +35,7 @@ I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreci
 ---
 
 ## Links and resources
-* [GitHub Repositories](https://github.com/b1tranger?tab=repositories) | Browse [WIKI ⭐](https://github.com/b1tranger/archive)
+* [GitHub Repositories](https://github.com/b1tranger?tab=repositories) | Browse [WIKI ⭐](https://github.com/b1tranger/archive/wiki)
 * [Resources Archive](https://b1tranger.netlify.app/dump)
 * [GitBook Doc](https://b1tranger.gitbook.io/archive/)
 * [GitHub Gist](https://gist.github.com/b1tranger)
