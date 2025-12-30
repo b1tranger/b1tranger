@@ -23,7 +23,7 @@ I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreci
   <a href="https://www.behance.net/b1tranger" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://m.facebook.com/bink.birb/" target="_blank">
+  <a href="https://www.facebook.com/b1tranger/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.blogger.com/profile/09013726977236642072" target="_blank">
