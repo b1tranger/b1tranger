@@ -51,7 +51,6 @@
 
 </p>
 
-<!-- <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> -->
 
 ---
 ## Skills and Tools
@@ -105,3 +104,5 @@
 ---
 
 # [Get in touch](#-)
+
+<p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> 
