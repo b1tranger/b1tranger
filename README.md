@@ -1,4 +1,4 @@
-
+# &nbsp; &nbsp;
 <!-- # Hi 👋, I'm BitRanger! -->
 
 <!-- <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> -->
@@ -11,7 +11,10 @@
   <a href="https://discordapp.com/users/461953229299646471" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=b1tranger.01@gmail.com&hl=en" target="_blank">
+  <!-- <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=b1tranger.01@gmail.com&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> -->
+    <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=gsmurady123@gmail.com&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gaus-saraf-0471b81a4/" target="_blank">
@@ -101,4 +104,4 @@
 
 ---
 
-
+# [Get in touch](#-)
