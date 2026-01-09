@@ -6,7 +6,7 @@
 <!-- I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreciation for poetry and the Arabic language. -->
 
 ---
-## Links and Resources
+## # Links and Resources
 
 |Type| Resources |
 |-|-|
@@ -20,7 +20,7 @@
 <!-- * [GitHub Gist](https://gist.github.com/b1tranger) -->
 
 ---
-## Contacts
+## # Contacts
 <p align="center">
   <a href="https://discordapp.com/users/461953229299646471" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -51,7 +51,7 @@
 
 
 ---
-## Skills and Tools
+## # Skills and Tools
 
 | **Programming** | **Web Development**| **Office Tools**|
 | --- | ---  |  --- |
@@ -90,7 +90,7 @@
 <!-- | [Awesome UITS](https://github.com/oU1TS) | GitHub organization fostering communal activity among UITS students. | GitHub Org | -->
 ---
 
-## Online Judges
+## # Online Judges
 
 
 <!-- | --- | --- | --- | --- | --- | --- |  -->
@@ -101,6 +101,6 @@
 
 ---
 
-# [Get in touch](#links-and-resources)
+# # [Get in touch](#-links-and-resources)
 
 <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> 
