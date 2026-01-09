@@ -81,11 +81,11 @@
 ---
 
 ## # Projects and Contributions
-| Project | Description | Tech |
-|---------|-------------|------|
-| [University-Resources](https://b1tacad.netlify.app/) | Organized university resources and utilized crowdsourcing. | HTML/CSS/JS |
-| [Programming-Records](https://github.com/b1tranger/Programming-Records) || No Limits|
-| [Handicapped Bros](https://github.com/Handicapped-Bros) | An initiative to make our mark in the technical field. | — |
+| Project | Description | 
+|---------|-------------|
+| [University-Resources](https://b1tacad.netlify.app/) | Organized university resources and utilized crowdsourcing. |
+| [Programming-Records](https://github.com/b1tranger/Programming-Records) ||
+| [Handicapped Bros](https://github.com/Handicapped-Bros) | An initiative to make our mark in the technical field. |
 | [More Projects](https://b1tranger.netlify.app/projects) | |
 
 
