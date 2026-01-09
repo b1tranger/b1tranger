@@ -1,4 +1,4 @@
-# &nbsp; &nbsp;
+
 <!-- # Hi 👋, I'm BitRanger! -->
 
 <!-- <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> -->
@@ -7,6 +7,24 @@
 
 ---
 
+
+
+## Links and resources
+
+|Type| Resources |
+|-|-|
+| GitHub | [Repositories](https://github.com/b1tranger?tab=repositories) &nbsp;,&nbsp; [WIKI ⭐](https://github.com/b1tranger/archive/wiki) &nbsp;,&nbsp; [Gist](https://gist.github.com/b1tranger)
+| Archive | [Website](https://b1tranger.netlify.app/dump) &nbsp;,&nbsp; [Google Docs](https://docs.google.com/document/d/1EOJuTOzXslIHeFXmMDrNIV7vHBxxjHr5/edit?usp=sharing&ouid=107122346321668658639&rtpof=true&sd=true) &nbsp;,&nbsp; [Articles](https://b1tranger.github.io/archive/md_render.html)
+
+
+<!-- * [GitHub Repositories](https://github.com/b1tranger?tab=repositories) | Browse [WIKI ⭐](https://github.com/b1tranger/archive/wiki) -->
+<!-- * [Resources Archive](https://b1tranger.netlify.app/dump) -->
+<!-- * [GitBook Doc](https://b1tranger.gitbook.io/archive/) -->
+<!-- * [GitHub Gist](https://gist.github.com/b1tranger) -->
+
+---
+
+# &nbsp; &nbsp;
 <p align="center">
   <a href="https://discordapp.com/users/461953229299646471" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -38,22 +56,6 @@
 <!-- <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> -->
 
 ---
-
-## Links and resources
-
-|Type| Resources |
-|-|-|
-| GitHub | [Repositories](https://github.com/b1tranger?tab=repositories) &nbsp;,&nbsp; [WIKI ⭐](https://github.com/b1tranger/archive/wiki) &nbsp;,&nbsp; [Gist](https://gist.github.com/b1tranger)
-| Archive | [Website](https://b1tranger.netlify.app/dump) &nbsp;,&nbsp; [Google Docs](https://docs.google.com/document/d/1EOJuTOzXslIHeFXmMDrNIV7vHBxxjHr5/edit?usp=sharing&ouid=107122346321668658639&rtpof=true&sd=true) &nbsp;,&nbsp; [Articles](https://b1tranger.github.io/archive/md_render.html)
-
-
-<!-- * [GitHub Repositories](https://github.com/b1tranger?tab=repositories) | Browse [WIKI ⭐](https://github.com/b1tranger/archive/wiki) -->
-<!-- * [Resources Archive](https://b1tranger.netlify.app/dump) -->
-<!-- * [GitBook Doc](https://b1tranger.gitbook.io/archive/) -->
-<!-- * [GitHub Gist](https://gist.github.com/b1tranger) -->
-
----
-
 ## Skills and Tools
 
 | **Programming** | **Web Development**| **Office Tools**|
