@@ -49,6 +49,30 @@
 
 </p>
 
+---
+
+## # Projects and Contributions
+| Project | Description | 
+|---------|-------------|
+| [University-Resources](https://b1tacad.netlify.app/) | Organized university resources and utilized crowdsourcing. |
+| [Programming-Records](https://github.com/b1tranger/Programming-Records) ||
+| [Handicapped Bros](https://github.com/Handicapped-Bros) | An initiative to make our mark in the technical field. |
+| [More Projects](https://b1tranger.netlify.app/projects) | |
+
+
+<!-- | [Task-Scheduler](https://b1tsched.netlify.app/) | Academic task planner with routines, calendar, and faculty info. | HTML/CSS/JS | -->
+<!-- | [Awesome UITS](https://github.com/oU1TS) | GitHub organization fostering communal activity among UITS students. | GitHub Org | -->
+---
+
+## # Online Judges
+
+
+<!-- | --- | --- | --- | --- | --- | --- |  -->
+| [BeeCrowd](https://judge.beecrowd.com/en/profile/463909) |  [CodeForces](https://codeforces.com/profile/BitRanger) |  [Hackerrank](https://www.hackerrank.com/profile/b1tranger) | 
+| --- | --- | --- | 
+ [LeetCode](https://leetcode.com/u/b1ranger/) |  [TryHackMe](https://tryhackme.com/p/b1tranger) | ... | | |
+<!-- | --- | --- | --- | --- | --- | --- |  -->
+
 
 ---
 ## # Skills and Tools
@@ -74,30 +98,6 @@
 <!-- - **3D:** Blender, AutoCAD, Goxel   -->
 <!-- - **Game Development:** Godot, Raylib   -->
 <!-- - **LaTeX:** Overleaf -->
-
----
-
-## # Projects and Contributions
-| Project | Description | 
-|---------|-------------|
-| [University-Resources](https://b1tacad.netlify.app/) | Organized university resources and utilized crowdsourcing. |
-| [Programming-Records](https://github.com/b1tranger/Programming-Records) ||
-| [Handicapped Bros](https://github.com/Handicapped-Bros) | An initiative to make our mark in the technical field. |
-| [More Projects](https://b1tranger.netlify.app/projects) | |
-
-
-<!-- | [Task-Scheduler](https://b1tsched.netlify.app/) | Academic task planner with routines, calendar, and faculty info. | HTML/CSS/JS | -->
-<!-- | [Awesome UITS](https://github.com/oU1TS) | GitHub organization fostering communal activity among UITS students. | GitHub Org | -->
----
-
-## # Online Judges
-
-
-<!-- | --- | --- | --- | --- | --- | --- |  -->
-| [BeeCrowd](https://judge.beecrowd.com/en/profile/463909) |  [CodeForces](https://codeforces.com/profile/BitRanger) |  [Hackerrank](https://www.hackerrank.com/profile/b1tranger) | 
-| --- | --- | --- | 
- [LeetCode](https://leetcode.com/u/b1ranger/) |  [TryHackMe](https://tryhackme.com/p/b1tranger) | ... | | |
-<!-- | --- | --- | --- | --- | --- | --- |  -->
 
 ---
 
