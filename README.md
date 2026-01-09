@@ -6,9 +6,7 @@
 <!-- I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreciation for poetry and the Arabic language. -->
 
 ---
-
-# &nbsp; &nbsp;
-## Links and resources
+## Links and Resources
 
 |Type| Resources |
 |-|-|
@@ -103,6 +101,6 @@
 
 ---
 
-# [Get in touch](#-)
+# [Get in touch](#links-and-resources)
 
 <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> 
