@@ -1,9 +1,9 @@
 
-# Hi 👋, I'm BitRanger!
+<!-- # Hi 👋, I'm BitRanger! -->
 
-<p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p>
+<!-- <p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> -->
 
-I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreciation for poetry and the Arabic language.
+<!-- I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreciation for poetry and the Arabic language. -->
 
 ---
 
@@ -32,12 +32,14 @@ I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreci
 
 </p>
 
+<p align="center"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p>
+
 ---
 
 ## Links and resources
 * [GitHub Repositories](https://github.com/b1tranger?tab=repositories) | Browse [WIKI ⭐](https://github.com/b1tranger/archive/wiki)
 * [Resources Archive](https://b1tranger.netlify.app/dump)
-* [GitBook Doc](https://b1tranger.gitbook.io/archive/)
+<!-- * [GitBook Doc](https://b1tranger.gitbook.io/archive/) -->
 * [GitHub Gist](https://gist.github.com/b1tranger)
 
 ---
@@ -54,22 +56,28 @@ I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreci
 
 ---
 
-## 🚀 Projects and Contributions
+## # Projects and Contributions
 | Project | Description | Tech |
 |---------|-------------|------|
 | [University-Resources](https://b1tacad.netlify.app/) | Organized university resources and utilized crowdsourcing. | HTML/CSS/JS |
-| [Task-Scheduler](https://b1tsched.netlify.app/) | Academic task planner with routines, calendar, and faculty info. | HTML/CSS/JS |
-| [Awesome UITS](https://github.com/oU1TS) | GitHub organization fostering communal activity among UITS students. | GitHub Org |
-| [Handicapped Bros](https://github.com/Handicapped-Bros) | A place where friends gather to do things they love. | — |
+| [Programming-Records](https://github.com/b1tranger/Programming-Records) || No Limits|
+| [Handicapped Bros](https://github.com/Handicapped-Bros) | An initiative to make our mark in the technical field. | — |
 | [More Projects](https://b1tranger.netlify.app/projects) | |
 
+
+<!-- | [Task-Scheduler](https://b1tsched.netlify.app/) | Academic task planner with routines, calendar, and faculty info. | HTML/CSS/JS | -->
+<!-- | [Awesome UITS](https://github.com/oU1TS) | GitHub organization fostering communal activity among UITS students. | GitHub Org | -->
 ---
 
-## Online Judge
-* [BeeCrowd](https://judge.beecrowd.com/en/profile/463909)
-* [CodeForces](https://codeforces.com/profile/BitRanger)
-* [Hackerrank](https://www.hackerrank.com/profile/b1tranger)
-* [LeetCode](https://leetcode.com/u/b1ranger/)
-* [TryHackMe](https://tryhackme.com/p/b1tranger)
+## Online Judges
+
+
+<!-- | --- | --- | --- | --- | --- | --- |  -->
+| [BeeCrowd](https://judge.beecrowd.com/en/profile/463909) |  [CodeForces](https://codeforces.com/profile/BitRanger) |  [Hackerrank](https://www.hackerrank.com/profile/b1tranger) | 
+| --- | --- | --- | 
+ [LeetCode](https://leetcode.com/u/b1ranger/) |  [TryHackMe](https://tryhackme.com/p/b1tranger) | ... | | |
+<!-- | --- | --- | --- | --- | --- | --- |  -->
 
 ---
+
+
