@@ -5,6 +5,10 @@
 
 <!-- I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreciation for poetry and the Arabic language. -->
 
+<div align="center" >
+<h2><a href="https://b1tranger.github.io/" target="_blank">website/@b1tranger</a></h2>
+</div>
+
 ---
 ### # Links and Resources
 
@@ -16,10 +20,6 @@
 | Archive | [Website](https://b1tranger.netlify.app/dump) &nbsp;,&nbsp; [Google Docs](https://docs.google.com/document/d/1EOJuTOzXslIHeFXmMDrNIV7vHBxxjHr5/edit?usp=sharing&ouid=107122346321668658639&rtpof=true&sd=true) &nbsp;,&nbsp; [Articles](https://b1tranger.github.io/archive/md_render.html)
 
 </div>
-<!-- * [GitHub Repositories](https://github.com/b1tranger?tab=repositories) | Browse [WIKI ⭐](https://github.com/b1tranger/archive/wiki) -->
-<!-- * [Resources Archive](https://b1tranger.netlify.app/dump) -->
-<!-- * [GitBook Doc](https://b1tranger.gitbook.io/archive/) -->
-<!-- * [GitHub Gist](https://gist.github.com/b1tranger) -->
 
 ---
 ### # Contacts
@@ -119,4 +119,4 @@
 
 ### # [Get in touch](#-links-and-resources)
 
-<p align="right"><img src="shuba-duck-know-your-meme.gif" height="200px" width="200px"></p> 
+
