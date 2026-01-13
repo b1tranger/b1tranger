@@ -94,7 +94,7 @@
 
 | **Programming** | **Web Development**| **Office Tools**|
 | --- | ---  |  --- |
-| C, C++, Java, JS, PHP | HTML, CSS, JS, PHP |  Word, PowerPoint, Acrobat |
+| C, C++, Java, JS, PHP, Python | HTML, CSS, JS, PHP, SQL |  Word, PowerPoint, Acrobat |
 
 | **Designing** |**Video Editing** | **3D** |
 | --- | ---  |  --- |
