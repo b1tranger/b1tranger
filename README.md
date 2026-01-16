@@ -6,7 +6,9 @@
 <!-- I’m a CSE undergraduate at UITS; exploring and learning. I have a deep appreciation for poetry and the Arabic language. -->
 
 <div align="center" >
-<h2><a href="https://b1tranger.github.io/" target="_blank">website/@b1tranger</a></h2>
+  
+<h1><a href="https://b1tranger.github.io/" target="_blank">website/@b1tranger</a></h1>
+
 </div>
 
 ---
