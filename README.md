@@ -92,6 +92,83 @@
 
 <div align="center">
 
+<table width="100%">
+  <tr>
+    <th width="50%">Programming</th>
+    <!-- <th width="50%">Web Development</th> -->
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,php,py" /><br>
+      <p align=center><code>C, C++, Java, PHP, Python</code></p>
+    </td>
+    <!-- <td> -->
+      <!-- <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /><br> -->
+      <!-- <code>HTML, CSS, JS, PHP, SQL</code> -->
+    <!-- </td> -->
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Web Development</th>
+  </tr>
+  <tr>
+    <td>
+            <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /><br>
+      <p align=center><code align=center>HTML, CSS, JS, PHP, SQL</code></p>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th width="33%">Designing</th>
+    <th width="33%">Video Editing</th>
+    <th width="34%">3D & CAD</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Adobe_PS-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Adobe_AI-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white" /><br>
+      <code>Pixel Studio</code>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DaVinci_Resolve-%23000000.svg?style=flat&logo=davinciresolve&logoColor=white" /><br>
+      <code>ClipChamp</code>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autodesk&logoColor=white" /><br>
+      <code>Goxel</code>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <th width="33%">Game Development</th>
+    <th width="33%">LaTeX</th>
+    <th width="34%">Office Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godotengine&logoColor=white" /><br>
+      <code>Raylib</code>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Overleaf-%2347A141.svg?style=flat&logo=overleaf&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microsoft_Word-%232B579A.svg?style=flat&logo=microsoftword&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat&logo=microsoftpowerpoint&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Adobe_Acrobat-%23EC1C24.svg?style=flat&logo=adobeacrobatreader&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 | **Programming** | **Web Development**| **Office Tools**|
 | --- | ---  |  --- |
 | C, C++, Java, JS, PHP, Python | HTML, CSS, JS, PHP, SQL |  Word, PowerPoint, Acrobat |
