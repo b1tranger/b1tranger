@@ -169,28 +169,8 @@
   </tr>
 </table>
 
-| **Programming** | **Web Development**| **Office Tools**|
-| --- | ---  |  --- |
-| C, C++, Java, JS, PHP, Python | HTML, CSS, JS, PHP, SQL |  Word, PowerPoint, Acrobat |
-
-| **Designing** |**Video Editing** | **3D** |
-| --- | ---  |  --- |
-| Adobe (Ps,Ai), Pixel Studio,<br> Canva|DaVinci, ClipChamp  |   Blender, AutoCAD, Goxel  |
-
-| **Game Development** | **LaTeX** | ...  |
-| --- | ---  |  --- |
-| Godot, Raylib  |  Overleaf |  |
-
 </div>
 
-<!-- - **Programming:** C, C++, Java, JS, PHP   -->
-<!-- - **Web Development:** HTML, CSS, JS   -->
-<!-- - **Office Tools:** Word, PowerPoint, Acrobat   -->
-<!-- - **Designing:** Photoshop, Illustrator, Pixel Studio, Canva   -->
-<!-- - **Video Editing:** DaVinci, ClipChamp   -->
-<!-- - **3D:** Blender, AutoCAD, Goxel   -->
-<!-- - **Game Development:** Godot, Raylib   -->
-<!-- - **LaTeX:** Overleaf -->
 
 ---
 
