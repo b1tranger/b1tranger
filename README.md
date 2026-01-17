@@ -101,7 +101,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,php,py" /><br>
+      <span align=center><img src="https://skillicons.dev/icons?i=c,cpp,java,php,py" /></span><br>
       <p align=center><code>C, C++, Java, PHP, Python</code></p>
     </td>
     <!-- <td> -->
@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td>
-            <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /><br>
+            <span align=center><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /></span><br>
       <p align=center><code align=center>HTML, CSS, JS, PHP, SQL</code></p>
     </td>
   </tr>
