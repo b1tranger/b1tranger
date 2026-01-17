@@ -113,7 +113,7 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godotengine&logoColor=white" /><br>
-      <code>Raylib</code>
+      <img src="https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4" /><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Overleaf-%2347A141.svg?style=flat&logo=overleaf&logoColor=white" /><br>
