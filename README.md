@@ -36,25 +36,13 @@
 
 
 ---
-
-### # Online Judges
-
-<div align="center">
-  
-| [BeeCrowd](https://judge.beecrowd.com/en/profile/463909) |  [CodeForces](https://codeforces.com/profile/BitRanger) |  [Hackerrank](https://www.hackerrank.com/profile/b1tranger) | 
-| --- | --- | --- | 
- [LeetCode](https://leetcode.com/u/b1ranger/) |  [TryHackMe](https://tryhackme.com/p/b1tranger) | ... | | |
-
-</div>
-
----
 ### # Skills and Tools
 
 <div align="center">
 
 | # Online Judge |
 | --- |  
-| [BeeCrowd](https://judge.beecrowd.com/en/profile/463909) ,  [CodeForces](https://codeforces.com/profile/BitRanger) ,  [Hackerrank](https://www.hackerrank.com/profile/b1tranger) , [LeetCode](https://leetcode.com/u/b1ranger/) , [TryHackMe](https://tryhackme.com/p/b1tranger) |
+| [BeeCrowd](https://judge.beecrowd.com/en/profile/463909) \|  [CodeForces](https://codeforces.com/profile/BitRanger) \|  [Hackerrank](https://www.hackerrank.com/profile/b1tranger) \| [LeetCode](https://leetcode.com/u/b1ranger/) \| [TryHackMe](https://tryhackme.com/p/b1tranger) |
 
 
 <table width="100%">
@@ -65,7 +53,7 @@
   <tr>
     <td>
       <span align=center><img src="https://skillicons.dev/icons?i=c,cpp,java,php,py" /></span><br>
-      <p align=center><code>C, C++, Java, PHP, Python</code></p>
+      <p align=center><code>C | C++ | Java | PHP | Python</code></p>
     </td>
     <!-- <td> -->
       <!-- <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /><br> -->
@@ -81,7 +69,7 @@
   <tr>
     <td>
             <span align=center><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /></span><br>
-      <p align=center><code align=center>HTML, CSS, JS, PHP, SQL</code></p>
+      <p align=center><code align=center>HTML | CSS | JS | PHP | SQL</code></p>
     </td>
   </tr>
 </table>
