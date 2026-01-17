@@ -86,15 +86,15 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Adobe_PS-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Adobe_AI-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Adobe_PS-%2307405f.svg?style=flat&logo=adobephotoshop&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Adobe_AI-%23323330.svg?style=flat&logo=adobeillustrator&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white" /><br>
-      <code>Pixel Studio</code>
+       <img src="https://img.shields.io/badge/Pixel%20Studio-%235835CC.svg?style=flat&logo=canva&logoColor=white" /><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Adobe_PR-%23FF0000.svg?style=flat&logo=adobephotoshop&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/DaVinci_Resolve-%23000000.svg?style=flat&logo=davinciresolve&logoColor=white" /><br>
-      <code>ClipChamp</code>
+      <img src="https://img.shields.io/badge/ClipChamp-%239146FF.svg?style=flat&logo=canva&logoColor=white" /><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" /><br>
