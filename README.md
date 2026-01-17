@@ -34,6 +34,10 @@
 
 </div>
 
+---
+### # Socials
+ 
+<a href="https://gitlab.com/b1tranger/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a><a href="https://github.com/b1tranger" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://discordapp.com/users/461953229299646471" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=gsmurady123@gmail.com&hl=en" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/gaus-saraf-0471b81a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.behance.net/b1tranger" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a><a href="https://www.facebook.com/b1tranger/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a><a href="https://www.blogger.com/profile/09013726977236642072" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a><a href="https://t.me/b1tranger" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><a href="https://www.instagram.com/b1tranger/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ---
 ### # Skills and Tools
@@ -88,6 +92,7 @@
       <code>Pixel Studio</code>
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/Adobe_PR-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/DaVinci_Resolve-%23000000.svg?style=flat&logo=davinciresolve&logoColor=white" /><br>
       <code>ClipChamp</code>
     </td>
@@ -123,45 +128,6 @@
 </table>
 
 </div>
-
----
-### # Socials
-<p align="center">
-  <a href="https://gitlab.com/b1tranger/" target="_blank">
-   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="https://github.com/b1tranger" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/461953229299646471" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <!-- <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=b1tranger.01@gmail.com&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> -->
-    <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=gsmurady123@gmail.com&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gaus-saraf-0471b81a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/b1tranger" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/b1tranger/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.blogger.com/profile/09013726977236642072" target="_blank">
-      <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-    <a href="https://t.me/b1tranger" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-    <a href="https://www.instagram.com/b1tranger/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-</p>
 
 ---
 
