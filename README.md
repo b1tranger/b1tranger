@@ -92,7 +92,7 @@
       <code>Pixel Studio</code>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Adobe_PR-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Adobe_PR-%23FF0000.svg?style=flat&logo=adobephotoshop&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/DaVinci_Resolve-%23000000.svg?style=flat&logo=davinciresolve&logoColor=white" /><br>
       <code>ClipChamp</code>
     </td>
