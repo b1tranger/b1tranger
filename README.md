@@ -27,7 +27,7 @@
 |-|-|
 | [Programming-Records](https://github.com/b1tranger/Programming-Records) |  [Handicapped-Bros](https://github.com/Handicapped-Bros) |
 |[University-Resources](https://b1tacad.netlify.app/) | [oU1TS](https://github.com/oU1TS) |
-|...|
+|...| [The Penguins Club](https://github.com/The-Penguins-Club) |
 |[More Projects](https://b1tranger.netlify.app/projects)|
 
 
