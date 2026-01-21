@@ -131,8 +131,6 @@
 
 ---
 
-### # people I currently look up to
-- human [cristal-node](https://github.com/cristal-node) [Saima Siddique Tashfia](https://github.com/saimasiddique) [zobayersq](https://github.com/zobayersq) [foxxie911](https://github.com/foxxie911) [selim-reza](https://github.com/selim-reza-UITS) [yeahiasarker](https://github.com/yeahiasarker) [4xrhd](https://github.com/4xrhd) [mrinmoy29a](https://github.com/mrinmoy29a) [safridbhueyan](https://github.com/safridbhueyan) [ShahjalalShohag](https://github.com/ShahjalalShohag) [AkibReza](https://github.com/AkibReza) [SamudraJS](https://github.com/SamudraJS)
-- yt [Code-Bullet](https://github.com/Code-Bullet) [3b1b](https://github.com/3b1b) [pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
-- dev [Cas_/ThaUnknown](https://github.com/ThaUnknown) [Linus Torvalds](https://github.com/torvalds) [itkach](https://github.com/itkach) [meheraj7](https://github.com/meheraj7)
+### # interests
+- [people](https://github.com/b1tranger/b1tranger/blob/main/people.md)
 
