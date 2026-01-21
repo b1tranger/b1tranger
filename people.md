@@ -17,7 +17,7 @@
     - [3b1b](https://github.com/3b1b)
     - [pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
 - dev
-    - [Cas_/ThaUnknown](https://github.com/ThaUnknown)
-    - [Linus Torvalds](https://github.com/torvalds)
-    - [itkach](https://github.com/itkach)
-    - [meheraj7](https://github.com/meheraj7)
+    - [Cas_/ThaUnknown](https://github.com/ThaUnknown) &larr; Hayase
+    - [Linus Torvalds](https://github.com/torvalds) &larr; [linux](https://github.com/torvalds/linux)
+    - [itkach](https://github.com/itkach) &larr; [aarddict](https://github.com/aarddict)
+    - [meheraj7](https://github.com/meheraj7) &larr; M7Productions/Zero Hour Game
