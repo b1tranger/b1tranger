@@ -80,6 +80,12 @@
   </tr>
 </table>
 
+
+  | Hosting Services Used |
+  |-|
+  | InfinityFree, Netlify, Vercel, GitHub Pages |
+  
+
 <table width="100%">
   <tr>
     <th width="33%">Designing</th>
@@ -104,6 +110,7 @@
       <code>Goxel</code>
     </td>
   </tr>
+
 </table>
 
 <table width="100%">
