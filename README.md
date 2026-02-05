@@ -81,9 +81,9 @@
 </table>
 
 
-  | Hosting Services Used |
+  | Web Dev Tools |
   |-|
-  | InfinityFree, Netlify, Vercel, GitHub Pages |
+  | [InfinityFree](https://www.infinityfree.com/), [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), GitHub Pages, [Supabase](https://supabase.com/) |
   
 
 <table width="100%">
