@@ -84,7 +84,7 @@
   | Web Dev Tools |
   |-|
   | Hosting & Deployment: [InfinityFree](https://www.infinityfree.com/), [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), GitHub Pages |
-  | Backend/Database (BaaS): [Supabase](https://supabase.com/)|
+  | Backend/Database (BaaS): [Supabase](https://supabase.com/), [Google Sheets API](https://developers.google.com/sheets/api?authuser=2), [Firebase & Firestore](https://firebase.google.com/)|
   | Cloud Infrastructure: [Google Cloud Console](https://console.cloud.google.com/) |
   
 
