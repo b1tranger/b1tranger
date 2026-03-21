@@ -146,4 +146,5 @@ Support me via [bKash](https://b1tranger.netlify.app/#support-bkash-qr) or [supp
 
 ### # interests
 - [people](https://github.com/b1tranger/b1tranger/blob/main/people.md)
+- [ideas](https://github.com/b1tranger/ideas/issues)
 
