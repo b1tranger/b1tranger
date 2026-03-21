@@ -11,7 +11,7 @@
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
-Support me at [supportkori.com/b1tranger](https://www.supportkori.com/b1tranger)
+Support me via [bKash](https://b1tranger.netlify.app/#support-bkash-qr) or [supportkori](https://www.supportkori.com/b1tranger)
 
 </div>
 
