@@ -23,6 +23,7 @@
     - [Code-Bullet](https://github.com/Code-Bullet)
     - [3b1b](https://github.com/3b1b)
     - [pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
+    - Louis Rossmann &larr; https://github.com/FULU-Foundation
 - dev
     - [Cas_/ThaUnknown](https://github.com/ThaUnknown) &larr; Hayase | [remotion-dev](https://github.com/remotion-dev)
     - [Linus Torvalds](https://github.com/torvalds) &larr; [linux](https://github.com/torvalds/linux)
